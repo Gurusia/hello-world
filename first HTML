@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>My firs HTML page</title>
+	</head>
+	<body bgcolor="#FEBF80">
+		<h1><b>Мой первый заголовок</b></h1>
+		<font color="green" size="7">My first cайт <br><br><br> 
+		<center><i>Успех</i></center><br> 
+		<font color="#7BA073" size="6"><u>Pond</u><br> 
+		<font color="#e54194" size="5"><s>Front</s>
+ </body>
+</html>
